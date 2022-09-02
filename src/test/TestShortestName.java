@@ -13,6 +13,6 @@ public class TestShortestName {
                 new Employee(7, "Mark"),
                 new Employee(4, "Frank")
         );
-        // find employee with shortest name and output their id,name
+        // find employee with the shortest name and output their id,name
     }
 }
